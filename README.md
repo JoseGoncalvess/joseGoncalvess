@@ -26,5 +26,6 @@
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoseGoncalvess1212%2Fhit-counter"/> Pessoas passaram por aqui!
 </div>
  <div><img src="https://media3.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif?cid=ecf05e472f9y8y01j5yb1nexa3huzu285he3ln2moqdvnf73&rid=giphy.gif&ct=g" alt=""></div>
+ ![snake gif](https://github.com/JoseGoncalvess/joseGoncalvess/blob/output/github-contribution-grid-snake.gif)
  
  </body>
