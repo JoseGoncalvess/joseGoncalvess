@@ -1,56 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B31E3&height=120&section=header"/>
-
 
 <div  align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=25&pause=1000&color=2B31E3&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Gon%C3%A7alves;Tenho+22+anos+!;I'm+from++Brazil" alt="Typing SVG" /></a>
+ <h1>Olá, Eu Sou Gonçalves! 🚀  <h1/>
+     <img src="https://img.shields.io/github/followers/joseGoncalvess.svg?style=social&label=Follow&maxAge=2592000" /> 
+    
 </div>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseGoncalvess&show_icons=true&count_private=true&hide_border=true&title_color=2B31E3&icon_color=2B31E3&text_color=c9d1d9&bg_color=0d1117" alt="José Gonçalves github stats" /> 
- <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGoncalvess&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+   <h2>GITHUB STATUS</h2>
+</div>
+      
+<div align="center"> 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseGoncalvess&show_icons=true&theme=dark" /> 
+ <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGoncalvess&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div  align="center">
- <h1>Contato</h1>
+<div align="center">
+ <h2>SOCIAL</h2>
+
+ <div>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto:joseinacio774@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </div>
+    
+ 
+   
 </div>
 
 
 
-## Main technology
 
-<div>   
-   <div>
-       <img align="center" alt="Gonça-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-      <p>Flutetr</p>
-   </div>
-   <div>
-      <img align="center" alt="Gonça-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <p>Python</p>
-   </div>
+
+<div align="center">    
+   <h2> TECNOLOGIAS</h2>
    
-   <div>
-      <img align="center" alt="Gonça-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <p>Html</p>
-    </div>
+ <img align="center" alt="Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+ <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=0769AD"/>
+ <img align="center" alt="HTML%"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="center" alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <div width="50%">
+    <img width=200px height=200px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  </div>
    
-   <div>
-      <img align="center" alt="Gonça-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <p>Css3</p>
-    </div>
-</div>
 <div align="center">
  <img src="https://github.com/JoseGoncalvess/joseGoncalvess/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </div>
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoseGoncalvess}/count.svg" /></p> 
-<br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B31E3&height=120&section=footer"/>
