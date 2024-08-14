@@ -1,47 +1,86 @@
+<br clear="both">
 
-<div  align="center">
- <h1>Olá, Eu Sou Gonçalves! 🚀  <h1/>
-     <img src="https://img.shields.io/github/followers/joseGoncalvess.svg?style=social&label=Follow&maxAge=2592000" /> 
-    
+<h1 align="center">Olá, eu sou Gonçalves satisfação em te ver por aqui! 🚀</h1>
+
+###
+
+<h3 align="center">Desenvolvedor Mobile e Acadêmico em Engenharia de software</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFobHBnYXhtNDl4cDc4Y3Fpd3Z6cDlqYmZ2Z29id2RrcGs1eWFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+
+###
+
+<h3 align="right">Principais Habilidades</h3>
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
+
+###
+
+<h4 align="right">Tenho estudado sobre:</h4>
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+</div>
+
+###
+
+<h4 align="center">-- Atividade aqui no GitHub --</h4>
+
+###
 
 <div align="center">
-   <h2>GITHUB STATUS</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseGoncalvess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGoncalvess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-      
-<div align="center"> 
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joseGoncalvess&show_icons=true&theme=dark" /> 
- <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGoncalvess&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+###
+
+<h4 align="center">-- Principais meio de Contato --</h4>
+
+###
 
 <div align="center">
- <h2>SOCIAL</h2>
-
- <div>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:joseinacio774@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </div>
-    
- 
-   
+  <a href="https://www.linkedin.com/in/jos%C3%A9-gon%C3%A7alves-sf-4947bb226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="goncalvess.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@DevJGs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
-
-
-
-
-<div align="center">    
-   <h2> TECNOLOGIAS</h2>
-   
- <img align="center" alt="Flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
- <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=0769AD"/>
- <img align="center" alt="HTML%"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <div width="50%">
-    <img width=200px height=200px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </div>
-   
-<div align="center">
- <img src="https://github.com/JoseGoncalvess/joseGoncalvess/blob/output/github-contribution-grid-snake.svg?raw=true" />
-</div>
+###
