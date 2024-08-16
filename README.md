@@ -1,24 +1,24 @@
 <br clear="both">
 
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFobHBnYXhtNDl4cDc4Y3Fpd3Z6cDlqYmZ2Z29id2RrcGs1eWFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Olá, eu sou Gonçalves satisfação em te ver por aqui! 🚀</h1>
 
 ###
 
-<h3 align="center">Desenvolvedor Mobile e Acadêmico em Engenharia de software</h3>
+<h4 align="center">Desenvolvedor Mobile e Acadêmico em Engenharia de software</h4>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFobHBnYXhtNDl4cDc4Y3Fpd3Z6cDlqYmZ2Z29id2RrcGs1eWFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<h3 align="center">Principais Habilidades</h3>
 
 ###
 
-<h3 align="right">Principais Habilidades</h3>
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h4 align="right">Tenho estudado sobre:</h4>
+<h4 align="center">Tenho estudado sobre</h4>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="center">-- Atividade aqui no GitHub --</h4>
+<h2 align="center">-- Atividade aqui no GitHub --</h2>
 
 ###
 
@@ -64,6 +64,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JoseGoncalvess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseGoncalvess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JoseGoncalvess/JoseGoncalvess/output/snake.svg" alt="Snake animation" />
 
 ###
 
