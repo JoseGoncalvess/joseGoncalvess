@@ -5,14 +5,11 @@
 </div>
 
 ###
+<div align="center">
+  <h1 align="center">Olá, eu sou Gonçalves satisfação em te ver por aqui! 🚀</h1>
+  <h4 align="center">Desenvolvedor Mobile e Acadêmico em Engenharia de software</h4>
+</div>
 
-<h1 align="center">Olá, eu sou Gonçalves satisfação em te ver por aqui! 🚀</h1>
-
-###
-
-<h4 align="center">Desenvolvedor Mobile e Acadêmico em Engenharia de software</h4>
-
-###
 
 <h3 align="center">Principais Habilidades</h3>
 
@@ -67,7 +64,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoseGoncalvess/JoseGoncalvess/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/JoseGoncalvess/JoseGoncalvess/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
