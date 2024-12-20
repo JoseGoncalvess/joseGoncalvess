@@ -70,12 +70,12 @@
 
 ###
 
-<h4 align="center">-- Principais meio de Contato --</h4>
+<h4 align="center">-- <p>Principais meio de Contato</p> --</h4>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-gon%C3%A7alves-sf-4947bb226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="www.linkedin.com/in/jgoncalvessf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="goncalvess.dev@gmail.com" target="_blank">
